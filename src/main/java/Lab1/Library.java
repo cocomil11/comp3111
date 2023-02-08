@@ -4,6 +4,7 @@
 package Lab1;
 
 public class Library {
+	//	comment
     public boolean someLibraryMethod() {
         return true;
     }
